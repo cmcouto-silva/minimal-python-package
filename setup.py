@@ -9,6 +9,6 @@ setup(
     author_email="your.email@example.com",
     url="https://github.com/yourusername/your-package-name",
     install_requires=[
-        https://github.com/cmcouto-silva/minimal-python-package
+        # List of minimal dependencies required to run the package
     ],
 )
