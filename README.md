@@ -1,5 +1,20 @@
 # A minimal Python  package
 
+## Try this minimal package:
+
+Install it with:
+
+```bash
+pip install git+https://github.com/cmcouto-silva/minimal-python-package.git
+```
+
+Then, run:
+
+```python
+from my_package import utils
+utils.hello()
+```
+
 # Instructions
 
 ## Code structure
